@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eltaeif Houssem</h1>
 <h3 align="center">A passionate software developer from tunisia</h3>
 
-- 👯 I’m looking to collaborate on **MERN and Blockchain projects**
+- 👯 I’m looking to collaborate on **MERN and ML projects**
 
 - 👨‍💻 All of my projects are available at [eltaeif-houssem.netlify.app](eltaeif-houssem.netlify.app)
 
